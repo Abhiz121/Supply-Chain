@@ -1,0 +1,17 @@
+Working of app.py
+1.	Data Loading:
+o	The system loads data from a CSV file (analyzed_supply_chain_data.csv) containing tea production, supply, and demand information.
+2.	Streamlit Interface:
+o	Streamlit provides an interactive interface for users to manage inventory, select regions, and perform various actions like stocking or supplying materials.
+3.	Inventory Management:
+o	The system allows users to add incoming stock to the inventory and remove outgoing stock, adjusting the available warehouse space accordingly.
+o	Each incoming or outgoing action updates the inventory status and the available space in the warehouse.
+4.	Risk Alerts:
+o	The system generates risk alerts based on the sentiment score from the dataset or if the available warehouse space is critically low.
+o	Risk alerts are triggered if the sentiment score is below 0.50 or the available space is dangerously low.
+5.	Slack Integration:
+o	Alerts are sent to a Slack channel in real time via a webhook URL, notifying stakeholders of potential risks.
+6.	Filtering and Reporting:
+o	Users can filter the alerts by region and month to focus on specific areas of concern in the supply chain.
+7.	Save Inventory:
+o	The current inventory status can be saved to a new CSV file for future reference or further analysis.

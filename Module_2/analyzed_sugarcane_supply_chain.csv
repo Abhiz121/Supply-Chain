@@ -1,0 +1,1001 @@
+Date,Stage,Location,Price (USD),Export Volume (tons),Weather Conditions,Storage Capacity (tons),Storage Occupied (%),Sentiment,Sentiment Score,Risk Analysis
+2021-04-21,Export,"Uttar Pradesh, IN",69.51,13504.0,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2023-12-18,Cultivation,"Uttar Pradesh, IN",209.22,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2021-09-23,Processing,"Rio Grande, BR",13.66,,Dry,35978.0,8.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2023-12-29,Processing,"Karnataka, IN",14.35,,Dry,28393.0,43.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2024-04-05,Harvesting,"Rio Grande, BR",54.3,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2021-12-25,Cultivation,"Karnataka, IN",38.16,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2022-09-24,Storage,"Sao Paulo, BR",106.96,,Moderate Rainfall,56080.0,72.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-04-10,Harvesting,"Sao Paulo, BR",209.45,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2022-08-03,Transportation,"New York, US",165.78,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2021-11-29,Processing,"Sao Paulo, BR",82.97,,Dry,26845.0,64.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2022-08-26,Storage,"Uttar Pradesh, IN",191.77,,Humid,65002.0,82.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2022-03-17,Export,"Rotterdam, NL",36.48,8159.0,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2022-05-15,Processing,"New York, US",233.92,,Moderate Rainfall,41077.0,65.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2022-12-15,Distribution,"Karnataka, IN",19.61,15344.0,Snowy,17947.0,14.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2023-06-23,Transportation,"Rotterdam, NL",38.19,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2023-05-21,Storage,"Rotterdam, NL",166.95,,Clear,7633.0,31.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2021-07-05,Harvesting,"Rotterdam, NL",184.2,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2021-08-21,Transportation,"Sao Paulo, BR",20.76,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2024-04-22,Processing,"Rio Grande, BR",28.47,,Rainy,13248.0,48.0,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2021-05-02,Storage,"Sao Paulo, BR",32.95,,Humid,53906.0,49.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2022-04-20,Harvesting,"Rio Grande, BR",171.78,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2021-08-22,Cultivation,"Uttar Pradesh, IN",97.73,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-08-11,Cultivation,"New York, US",180.42,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2021-06-09,Storage,"Sao Paulo, BR",42.8,,Overcast,90522.0,94.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2023-03-23,Export,"Rotterdam, NL",83.26,18729.0,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2024-01-04,Processing,"Karnataka, IN",90.47,,Moderate Rainfall,84325.0,73.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2021-02-01,Cultivation,"Uttar Pradesh, IN",111.52,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2022-01-14,Distribution,"Uttar Pradesh, IN",66.54,12404.0,Dry,71540.0,21.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2021-07-27,Distribution,"New York, US",229.1,17342.0,Humid,17997.0,20.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-12-23,Distribution,"Uttar Pradesh, IN",203.04,18020.0,Overcast,25831.0,62.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2023-01-14,Processing,"Sao Paulo, BR",88.46,,Snowy,73012.0,81.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2021-03-15,Transportation,"Rotterdam, NL",199.17,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2023-11-27,Storage,"Karnataka, IN",52.73,,Overcast,62565.0,89.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2023-09-10,Storage,"Maharashtra, IN",240.68,,Moderate Rainfall,56032.0,99.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-12-31,Distribution,"New York, US",55.71,5272.0,Humid,92274.0,37.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2024-07-18,Distribution,"Karnataka, IN",49.29,15533.0,Humid,39275.0,43.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2021-06-02,Storage,"Rotterdam, NL",10.49,,Overcast,32878.0,86.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2021-10-09,Processing,"Uttar Pradesh, IN",205.52,,Overcast,62394.0,37.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2022-12-27,Export,"New York, US",186.21,17256.0,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2021-12-02,Cultivation,"Maharashtra, IN",153.97,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2023-03-15,Cultivation,"Maharashtra, IN",35.77,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2024-05-21,Harvesting,"Rio Grande, BR",96.06,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2021-12-17,Processing,"Sao Paulo, BR",86.32,,Humid,44796.0,84.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-04-26,Distribution,"New York, US",72.88,10103.0,Rainy,29488.0,28.0,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2024-07-05,Export,"Uttar Pradesh, IN",220.98,12907.0,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2021-07-06,Export,"Maharashtra, IN",241.51,6695.0,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-01-21,Export,"Maharashtra, IN",79.68,16069.0,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2022-09-28,Distribution,"Maharashtra, IN",194.19,4215.0,Moderate Rainfall,20233.0,37.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2021-07-13,Storage,"Sao Paulo, BR",89.42,,Dry,83792.0,63.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2021-03-26,Distribution,"Rotterdam, NL",154.57,15595.0,Humid,54233.0,16.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2021-09-07,Distribution,"Uttar Pradesh, IN",214.94,7231.0,Humid,50861.0,72.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2022-06-25,Distribution,"Uttar Pradesh, IN",247.75,18356.0,Humid,37710.0,77.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2021-11-24,Cultivation,"Uttar Pradesh, IN",141.03,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2022-07-28,Processing,"New York, US",35.38,,Snowy,62481.0,49.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2024-02-17,Transportation,"Sao Paulo, BR",56.18,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2022-02-20,Storage,"Rotterdam, NL",148.78,,Rainy,62000.0,85.0,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2022-02-27,Storage,"Maharashtra, IN",61.51,,Clear,61641.0,79.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2023-03-26,Distribution,"Rotterdam, NL",157.23,19968.0,Snowy,95100.0,61.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2022-08-14,Cultivation,"Sao Paulo, BR",211.35,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2021-02-19,Export,"Uttar Pradesh, IN",140.63,13527.0,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2024-07-10,Transportation,"Sao Paulo, BR",139.79,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2022-09-29,Distribution,"Karnataka, IN",173.43,6114.0,Overcast,98818.0,92.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2021-02-01,Export,"Sao Paulo, BR",91.11,19356.0,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-11-19,Distribution,"New York, US",63.44,3639.0,Dry,61414.0,6.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2021-04-23,Storage,"New York, US",127.83,,Overcast,33129.0,72.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2021-09-03,Processing,"Rio Grande, BR",90.92,,Clear,11038.0,78.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2022-04-30,Harvesting,"Maharashtra, IN",111.19,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2023-12-30,Transportation,"Uttar Pradesh, IN",78.85,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2024-06-18,Harvesting,"Rio Grande, BR",109.52,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-08-03,Storage,"Maharashtra, IN",37.74,,Clear,26795.0,17.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2023-05-21,Distribution,"Rio Grande, BR",136.41,15259.0,Humid,1556.0,79.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2024-06-12,Storage,"Uttar Pradesh, IN",235.06,,Clear,28392.0,0.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2023-11-17,Transportation,"Rotterdam, NL",36.98,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2023-10-31,Transportation,"Rotterdam, NL",226.35,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2021-06-08,Export,"Sao Paulo, BR",229.87,3696.0,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2022-12-11,Transportation,"Uttar Pradesh, IN",96.0,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2022-11-06,Storage,"Uttar Pradesh, IN",179.29,,Snowy,89012.0,6.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2024-04-02,Processing,"Maharashtra, IN",136.57,,Dry,45843.0,74.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2024-11-03,Harvesting,"Rio Grande, BR",225.72,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2024-02-17,Harvesting,"Karnataka, IN",155.45,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2023-07-19,Export,"Rio Grande, BR",194.95,17104.0,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2023-01-30,Processing,"Maharashtra, IN",169.67,,Moderate Rainfall,95263.0,91.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2022-06-23,Storage,"Uttar Pradesh, IN",55.48,,Snowy,27170.0,81.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2024-05-19,Distribution,"New York, US",208.95,1664.0,Overcast,18448.0,97.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2024-03-20,Export,"Uttar Pradesh, IN",99.07,4650.0,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2021-05-11,Export,"Rio Grande, BR",94.87,18478.0,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2024-12-14,Cultivation,"Rotterdam, NL",180.34,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-10-08,Export,"Karnataka, IN",231.91,10121.0,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2023-03-04,Export,"Maharashtra, IN",122.87,8871.0,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2024-04-13,Harvesting,"New York, US",75.7,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-11-25,Distribution,"Uttar Pradesh, IN",123.73,10244.0,Snowy,9644.0,28.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2024-02-01,Cultivation,"Maharashtra, IN",149.79,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-02-07,Distribution,"Uttar Pradesh, IN",74.35,15299.0,Overcast,8883.0,11.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2023-04-11,Harvesting,"Karnataka, IN",52.12,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2021-01-08,Export,"Maharashtra, IN",177.76,7509.0,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2023-03-20,Transportation,"Rio Grande, BR",106.91,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2021-12-16,Cultivation,"Sao Paulo, BR",245.51,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2021-01-14,Harvesting,"Uttar Pradesh, IN",92.91,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2021-05-15,Storage,"Rio Grande, BR",51.93,,Overcast,86395.0,72.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2021-06-21,Cultivation,"Rotterdam, NL",98.66,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2021-05-22,Cultivation,"Uttar Pradesh, IN",140.37,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2021-04-05,Processing,"Karnataka, IN",219.58,,Moderate Rainfall,49661.0,29.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-04-27,Cultivation,"New York, US",23.98,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2022-10-21,Cultivation,"New York, US",121.49,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2021-12-02,Transportation,"Sao Paulo, BR",181.88,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2024-03-13,Processing,"Sao Paulo, BR",27.23,,Dry,7381.0,1.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2023-02-11,Export,"Karnataka, IN",56.03,12029.0,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2024-04-06,Harvesting,"Uttar Pradesh, IN",183.47,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2023-04-29,Cultivation,"Rio Grande, BR",45.11,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2022-07-11,Cultivation,"Maharashtra, IN",78.2,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2021-01-03,Distribution,"New York, US",37.77,15808.0,Humid,996.0,55.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2022-12-17,Transportation,"Rio Grande, BR",84.37,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2021-03-04,Transportation,"New York, US",48.6,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-12-12,Harvesting,"Rotterdam, NL",219.21,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2024-09-24,Harvesting,"Uttar Pradesh, IN",231.84,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2021-03-11,Harvesting,"Rio Grande, BR",68.53,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2022-12-29,Processing,"Karnataka, IN",81.35,,Humid,55838.0,85.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2024-03-15,Transportation,"New York, US",80.73,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2022-10-09,Storage,"Maharashtra, IN",81.62,,Humid,6036.0,40.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2022-08-19,Distribution,"Rotterdam, NL",205.7,14193.0,Humid,71236.0,65.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2021-05-22,Transportation,"Maharashtra, IN",202.55,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2021-09-23,Export,"New York, US",171.46,16228.0,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2021-06-21,Harvesting,"Rio Grande, BR",225.37,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2022-11-18,Distribution,"Uttar Pradesh, IN",96.69,4157.0,Moderate Rainfall,66352.0,91.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2023-08-04,Cultivation,"Rotterdam, NL",157.69,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2021-01-28,Distribution,"Uttar Pradesh, IN",57.14,19427.0,Moderate Rainfall,8336.0,89.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2021-12-16,Storage,"New York, US",125.12,,Humid,70472.0,87.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2022-06-22,Export,"Rotterdam, NL",149.24,5294.0,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2024-01-08,Transportation,"Maharashtra, IN",38.3,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-08-09,Processing,"Rotterdam, NL",41.92,,Snowy,14892.0,60.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2022-04-29,Distribution,"Sao Paulo, BR",180.7,16389.0,Moderate Rainfall,67663.0,4.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2022-01-16,Distribution,"New York, US",118.59,662.0,Moderate Rainfall,55654.0,76.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2023-05-08,Harvesting,"Rotterdam, NL",33.33,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2023-11-29,Distribution,"Rio Grande, BR",237.85,6098.0,Moderate Rainfall,38400.0,51.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2023-02-11,Storage,"Maharashtra, IN",82.15,,Snowy,32615.0,40.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2022-12-21,Transportation,"Sao Paulo, BR",40.42,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2022-11-06,Export,"Maharashtra, IN",110.48,5066.0,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2022-08-30,Processing,"Uttar Pradesh, IN",244.78,,Clear,82240.0,94.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2023-01-23,Storage,"Sao Paulo, BR",141.82,,Humid,41341.0,30.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2024-09-13,Distribution,"Rio Grande, BR",208.74,13602.0,Snowy,70685.0,0.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2021-10-13,Processing,"Rio Grande, BR",230.95,,Dry,21035.0,38.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2022-07-14,Harvesting,"Rotterdam, NL",185.14,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-10-18,Export,"Uttar Pradesh, IN",136.94,16588.0,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2021-03-30,Storage,"Karnataka, IN",112.72,,Snowy,37723.0,26.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2024-02-05,Distribution,"Karnataka, IN",18.84,2550.0,Moderate Rainfall,18906.0,55.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-10-21,Storage,"Maharashtra, IN",121.56,,Humid,69509.0,56.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2024-03-05,Cultivation,"Rotterdam, NL",215.34,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2021-10-05,Storage,"Rotterdam, NL",115.94,,Snowy,55244.0,75.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2021-04-13,Storage,"Rotterdam, NL",189.25,,Clear,55079.0,58.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2023-03-16,Cultivation,"Karnataka, IN",62.38,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2022-01-13,Cultivation,"Sao Paulo, BR",194.54,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2021-12-10,Processing,"New York, US",248.91,,Humid,37468.0,0.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-08-10,Storage,"New York, US",94.59,,Clear,17682.0,52.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2024-02-29,Cultivation,"Rio Grande, BR",110.19,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2024-07-07,Distribution,"Sao Paulo, BR",77.25,19937.0,Humid,98312.0,95.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2024-03-04,Cultivation,"New York, US",72.79,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2021-09-15,Distribution,"Rio Grande, BR",117.19,11470.0,Snowy,65252.0,1.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2023-12-28,Distribution,"Karnataka, IN",40.84,8141.0,Clear,71601.0,12.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2023-01-15,Transportation,"Sao Paulo, BR",213.79,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2024-06-05,Export,"Karnataka, IN",156.86,489.0,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2024-03-07,Harvesting,"Karnataka, IN",76.71,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2023-03-11,Harvesting,"Karnataka, IN",44.85,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2022-07-04,Export,"Sao Paulo, BR",144.06,19539.0,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2024-06-19,Transportation,"Karnataka, IN",165.93,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2023-02-09,Distribution,"Uttar Pradesh, IN",136.65,7018.0,Clear,99064.0,77.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2023-10-17,Cultivation,"Karnataka, IN",229.19,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2021-02-11,Processing,"Uttar Pradesh, IN",185.96,,Moderate Rainfall,88304.0,49.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2021-07-23,Distribution,"Rio Grande, BR",41.1,9094.0,Clear,87730.0,59.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2023-06-03,Transportation,"Karnataka, IN",247.43,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2022-05-27,Export,"Rotterdam, NL",131.91,10783.0,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2021-03-30,Harvesting,"Uttar Pradesh, IN",223.0,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2023-11-09,Cultivation,"Rio Grande, BR",11.73,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2023-08-22,Export,"New York, US",228.94,8333.0,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2021-10-07,Export,"Rio Grande, BR",218.02,5319.0,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2024-08-29,Harvesting,"Rio Grande, BR",112.54,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2024-10-15,Cultivation,"Maharashtra, IN",143.8,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2022-05-11,Distribution,"Karnataka, IN",187.95,13319.0,Overcast,3222.0,67.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2021-12-25,Cultivation,"Sao Paulo, BR",146.49,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2022-10-23,Distribution,"Uttar Pradesh, IN",174.54,5439.0,Clear,68577.0,92.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2021-08-24,Harvesting,"Karnataka, IN",49.26,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2021-05-27,Cultivation,"Sao Paulo, BR",147.18,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2021-10-07,Cultivation,"New York, US",29.64,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-03-11,Export,"Uttar Pradesh, IN",173.24,14634.0,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2024-08-11,Processing,"New York, US",147.19,,Humid,47054.0,3.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2024-03-26,Transportation,"New York, US",81.87,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2021-01-15,Processing,"Karnataka, IN",20.82,,Dry,60343.0,51.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2023-01-15,Cultivation,"Rotterdam, NL",78.72,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2023-12-15,Cultivation,"Karnataka, IN",12.49,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2023-06-19,Processing,"Rotterdam, NL",173.41,,Snowy,800.0,13.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2023-04-21,Harvesting,"Rio Grande, BR",65.71,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2022-02-20,Distribution,"Rio Grande, BR",209.89,12365.0,Rainy,39004.0,75.0,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2021-08-18,Transportation,"Maharashtra, IN",22.76,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2024-09-03,Processing,"Rotterdam, NL",22.02,,Overcast,77611.0,98.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2023-12-28,Distribution,"Uttar Pradesh, IN",118.55,11004.0,Dry,35168.0,6.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2023-04-02,Distribution,"New York, US",47.98,10950.0,Humid,62117.0,12.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2024-04-15,Processing,"Uttar Pradesh, IN",155.69,,Clear,13333.0,1.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2023-06-25,Export,"Rotterdam, NL",36.44,15891.0,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2022-09-02,Harvesting,"New York, US",71.84,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2024-01-02,Export,"Rio Grande, BR",236.49,15984.0,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-06-29,Cultivation,"Uttar Pradesh, IN",44.12,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2023-12-23,Cultivation,"Rio Grande, BR",220.33,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2021-07-01,Export,"Maharashtra, IN",110.57,16566.0,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2022-01-10,Processing,"Rotterdam, NL",184.52,,Moderate Rainfall,87590.0,50.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-08-13,Harvesting,"Rio Grande, BR",236.22,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2021-07-29,Distribution,"Sao Paulo, BR",231.8,8644.0,Clear,58971.0,16.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2022-12-27,Transportation,"Rio Grande, BR",183.89,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2022-03-25,Transportation,"Uttar Pradesh, IN",101.96,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2024-07-31,Cultivation,"Rotterdam, NL",59.65,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2023-04-16,Storage,"Uttar Pradesh, IN",88.47,,Snowy,15584.0,30.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2022-11-10,Storage,"Uttar Pradesh, IN",97.9,,Humid,67629.0,49.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-10-17,Harvesting,"Sao Paulo, BR",107.97,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2022-07-02,Cultivation,"Uttar Pradesh, IN",212.17,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2022-10-21,Cultivation,"New York, US",127.39,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-03-12,Cultivation,"Uttar Pradesh, IN",230.9,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-05-31,Export,"Karnataka, IN",27.23,18925.0,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2021-11-30,Export,"Karnataka, IN",48.71,1788.0,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2022-03-24,Transportation,"Sao Paulo, BR",155.62,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2022-12-31,Distribution,"Karnataka, IN",163.09,13182.0,Humid,90664.0,58.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-06-02,Storage,"Sao Paulo, BR",216.58,,Rainy,24466.0,30.0,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2021-11-29,Export,"Uttar Pradesh, IN",195.06,12419.0,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2021-08-11,Distribution,"Rio Grande, BR",100.68,6992.0,Clear,50387.0,36.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2022-09-03,Processing,"New York, US",108.31,,Snowy,32168.0,68.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2022-02-03,Export,"Rio Grande, BR",189.38,11205.0,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-05-08,Processing,"Uttar Pradesh, IN",171.33,,Snowy,62933.0,53.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2024-06-22,Cultivation,"Rio Grande, BR",34.93,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2024-04-17,Processing,"New York, US",186.9,,Rainy,60443.0,51.0,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2021-02-17,Harvesting,"New York, US",68.2,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2023-02-24,Export,"Uttar Pradesh, IN",195.58,13400.0,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2021-12-01,Harvesting,"Karnataka, IN",231.71,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2021-12-15,Cultivation,"Sao Paulo, BR",98.95,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2024-03-12,Processing,"New York, US",210.88,,Moderate Rainfall,63223.0,95.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2021-01-09,Export,"New York, US",102.99,3586.0,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2023-11-28,Distribution,"Karnataka, IN",198.09,16991.0,Rainy,21036.0,8.0,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2021-03-22,Distribution,"Karnataka, IN",191.83,8751.0,Moderate Rainfall,86082.0,0.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2022-09-11,Harvesting,"Uttar Pradesh, IN",16.61,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-05-08,Processing,"Maharashtra, IN",167.34,,Humid,82176.0,4.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2021-03-27,Export,"Uttar Pradesh, IN",78.19,16811.0,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-05-05,Cultivation,"New York, US",133.86,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2023-09-23,Processing,"Rio Grande, BR",42.66,,Dry,88607.0,94.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2022-09-15,Cultivation,"New York, US",221.62,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2023-07-16,Distribution,"Rotterdam, NL",93.54,9262.0,Moderate Rainfall,74598.0,7.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2021-02-15,Storage,"Karnataka, IN",169.21,,Clear,11111.0,72.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2022-04-12,Transportation,"Uttar Pradesh, IN",174.6,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2022-03-09,Export,"Karnataka, IN",240.9,3764.0,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2022-12-02,Distribution,"Maharashtra, IN",53.11,7160.0,Dry,78882.0,71.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2022-06-29,Harvesting,"Karnataka, IN",72.28,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2023-04-16,Processing,"Maharashtra, IN",42.87,,Overcast,9044.0,62.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2022-07-04,Harvesting,"Uttar Pradesh, IN",88.03,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2023-11-16,Processing,"Rotterdam, NL",121.45,,Overcast,32025.0,86.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2022-12-03,Storage,"Rio Grande, BR",91.84,,Overcast,17845.0,23.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2024-05-22,Cultivation,"Sao Paulo, BR",39.64,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2023-01-12,Export,"Rotterdam, NL",31.69,5817.0,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2022-02-04,Processing,"Maharashtra, IN",58.58,,Snowy,42972.0,96.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2021-05-09,Export,"Sao Paulo, BR",185.51,9504.0,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2022-02-24,Harvesting,"Maharashtra, IN",187.36,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2024-11-14,Harvesting,"Sao Paulo, BR",206.83,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-09-25,Cultivation,"Karnataka, IN",135.23,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2024-12-22,Harvesting,"Sao Paulo, BR",133.29,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2024-03-29,Processing,"Rotterdam, NL",150.27,,Dry,49465.0,79.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2021-08-29,Transportation,"Karnataka, IN",98.59,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2024-04-03,Storage,"Uttar Pradesh, IN",77.63,,Overcast,43240.0,43.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2022-10-17,Transportation,"Uttar Pradesh, IN",64.44,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2024-03-18,Processing,"Karnataka, IN",81.54,,Dry,62222.0,62.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2021-02-25,Distribution,"Maharashtra, IN",202.44,10246.0,Rainy,59270.0,7.0,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2022-04-22,Export,"Karnataka, IN",18.98,14783.0,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2022-07-06,Distribution,"Maharashtra, IN",60.36,9257.0,Moderate Rainfall,27942.0,76.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-02-24,Harvesting,"Rio Grande, BR",15.66,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2024-09-28,Cultivation,"Sao Paulo, BR",126.81,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2021-12-08,Transportation,"Maharashtra, IN",107.37,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2021-04-01,Export,"Sao Paulo, BR",17.5,18150.0,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2022-10-31,Storage,"Maharashtra, IN",160.58,,Clear,32627.0,5.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2023-07-03,Cultivation,"New York, US",208.6,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2023-12-23,Distribution,"New York, US",25.59,1901.0,Moderate Rainfall,47978.0,82.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-09-27,Export,"Uttar Pradesh, IN",138.78,2483.0,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2023-05-13,Processing,"Maharashtra, IN",38.29,,Snowy,74499.0,12.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2022-04-26,Harvesting,"Rotterdam, NL",212.0,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2023-07-01,Processing,"Karnataka, IN",180.23,,Rainy,35097.0,3.0,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2021-02-14,Processing,"Uttar Pradesh, IN",35.14,,Snowy,25916.0,54.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2024-09-12,Transportation,"New York, US",230.7,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2021-11-21,Processing,"Karnataka, IN",238.06,,Moderate Rainfall,62711.0,31.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-08-30,Transportation,"Uttar Pradesh, IN",102.31,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-11-24,Export,"Karnataka, IN",172.32,14217.0,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2022-04-25,Harvesting,"Rio Grande, BR",72.63,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2024-07-05,Cultivation,"Karnataka, IN",13.86,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2024-04-07,Cultivation,"Uttar Pradesh, IN",138.35,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2024-12-18,Storage,"Rio Grande, BR",153.77,,Clear,6462.0,48.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2022-11-03,Cultivation,"Maharashtra, IN",241.96,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2022-02-10,Distribution,"Uttar Pradesh, IN",90.1,15212.0,Snowy,1475.0,76.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2021-10-02,Cultivation,"Sao Paulo, BR",20.92,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-12-24,Export,"New York, US",11.15,14259.0,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2021-04-20,Distribution,"Maharashtra, IN",179.91,12710.0,Humid,73991.0,29.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2022-07-31,Transportation,"Rotterdam, NL",48.86,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2022-08-23,Storage,"Sao Paulo, BR",102.45,,Rainy,74122.0,66.0,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2023-12-16,Harvesting,"Uttar Pradesh, IN",37.85,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2021-03-03,Distribution,"New York, US",111.68,6428.0,Rainy,96127.0,67.0,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2024-01-03,Processing,"Uttar Pradesh, IN",223.34,,Moderate Rainfall,59066.0,47.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2022-03-15,Cultivation,"Karnataka, IN",73.0,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2022-12-28,Storage,"Rio Grande, BR",25.46,,Humid,42910.0,29.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2021-08-06,Processing,"Rotterdam, NL",125.86,,Humid,14770.0,67.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-05-28,Processing,"Karnataka, IN",152.17,,Humid,26990.0,41.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2021-01-12,Distribution,"New York, US",185.89,17193.0,Overcast,44136.0,28.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2024-06-09,Cultivation,"Sao Paulo, BR",152.16,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2021-02-06,Distribution,"Uttar Pradesh, IN",71.46,5142.0,Moderate Rainfall,35840.0,72.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2022-10-14,Storage,"Karnataka, IN",181.81,,Dry,86663.0,90.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2022-02-05,Harvesting,"Rio Grande, BR",35.11,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2022-12-08,Export,"Maharashtra, IN",109.01,1634.0,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2024-12-21,Distribution,"Rio Grande, BR",216.56,1077.0,Dry,68538.0,12.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2022-06-28,Export,"Karnataka, IN",71.21,18738.0,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2022-09-21,Storage,"Maharashtra, IN",148.36,,Humid,79594.0,38.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2022-10-17,Export,"Rio Grande, BR",118.26,2090.0,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2021-02-12,Transportation,"Rio Grande, BR",50.02,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2021-10-13,Cultivation,"Uttar Pradesh, IN",237.01,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2021-03-14,Distribution,"Rotterdam, NL",233.91,9348.0,Dry,53875.0,19.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2024-01-27,Storage,"Rotterdam, NL",49.26,,Dry,30784.0,77.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2021-04-16,Transportation,"Rotterdam, NL",55.92,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-07-07,Processing,"Sao Paulo, BR",134.94,,Rainy,87611.0,74.0,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2024-12-20,Processing,"Rotterdam, NL",124.15,,Snowy,50169.0,67.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2024-05-09,Distribution,"Rotterdam, NL",197.43,19936.0,Rainy,49697.0,4.0,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2022-08-23,Transportation,"Karnataka, IN",223.36,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2024-01-05,Transportation,"Maharashtra, IN",222.84,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2023-05-28,Cultivation,"Sao Paulo, BR",153.5,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2021-09-27,Distribution,"Uttar Pradesh, IN",120.25,4502.0,Humid,53962.0,70.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-06-27,Distribution,"Rio Grande, BR",43.57,9846.0,Overcast,45390.0,27.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2024-03-24,Transportation,"Rio Grande, BR",221.64,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2022-05-25,Processing,"Karnataka, IN",27.41,,Snowy,11819.0,36.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2023-10-16,Distribution,"Uttar Pradesh, IN",69.15,4281.0,Humid,24505.0,27.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2021-01-16,Distribution,"Rotterdam, NL",132.13,7246.0,Dry,31445.0,99.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2023-09-15,Export,"Karnataka, IN",82.24,2744.0,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2023-11-27,Storage,"Maharashtra, IN",195.88,,Snowy,42530.0,46.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2022-07-04,Export,"Rotterdam, NL",65.03,5500.0,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2021-08-01,Distribution,"Karnataka, IN",76.42,6641.0,Clear,25707.0,25.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2022-12-20,Transportation,"Karnataka, IN",107.49,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2022-09-19,Transportation,"Karnataka, IN",17.38,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2021-05-21,Export,"Sao Paulo, BR",64.76,5636.0,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2023-09-25,Transportation,"Maharashtra, IN",208.78,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2024-03-16,Processing,"Rio Grande, BR",66.89,,Overcast,64872.0,61.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2022-11-07,Harvesting,"Rio Grande, BR",41.65,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2021-02-04,Processing,"Maharashtra, IN",217.73,,Overcast,39609.0,64.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2024-12-22,Harvesting,"Uttar Pradesh, IN",218.74,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2024-07-25,Distribution,"Maharashtra, IN",171.08,14866.0,Humid,82841.0,8.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2024-01-16,Export,"Rotterdam, NL",95.05,14144.0,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2023-02-01,Distribution,"Maharashtra, IN",89.38,11269.0,Overcast,74359.0,51.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2022-07-05,Harvesting,"Rio Grande, BR",167.51,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2021-06-12,Storage,"New York, US",163.58,,Overcast,18039.0,20.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2024-05-17,Distribution,"Karnataka, IN",137.7,18660.0,Rainy,44928.0,40.0,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2023-10-28,Cultivation,"Sao Paulo, BR",235.85,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2023-02-24,Processing,"Rio Grande, BR",220.54,,Rainy,44254.0,52.0,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2022-01-14,Processing,"Rio Grande, BR",243.55,,Clear,36886.0,69.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2022-03-27,Distribution,"Maharashtra, IN",155.17,8239.0,Dry,20521.0,29.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2023-01-14,Export,"Rotterdam, NL",72.75,17884.0,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2021-08-01,Distribution,"Maharashtra, IN",103.97,831.0,Moderate Rainfall,88607.0,15.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2021-08-05,Distribution,"New York, US",18.09,7776.0,Moderate Rainfall,62018.0,38.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-11-13,Harvesting,"Uttar Pradesh, IN",173.04,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2021-11-25,Transportation,"New York, US",211.61,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2023-10-30,Transportation,"New York, US",224.36,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2021-10-15,Harvesting,"Uttar Pradesh, IN",205.81,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2022-10-16,Processing,"Maharashtra, IN",101.13,,Clear,43140.0,37.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2022-03-02,Transportation,"Karnataka, IN",236.96,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2021-10-29,Distribution,"New York, US",242.69,5904.0,Overcast,67721.0,97.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2022-01-01,Harvesting,"Maharashtra, IN",127.41,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2021-01-25,Transportation,"Sao Paulo, BR",173.44,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2023-11-11,Export,"New York, US",179.85,7969.0,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2023-12-11,Harvesting,"Karnataka, IN",17.4,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2024-06-05,Transportation,"Rio Grande, BR",221.08,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-08-10,Cultivation,"Karnataka, IN",210.64,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2024-02-20,Transportation,"Uttar Pradesh, IN",108.72,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2021-10-22,Harvesting,"Rio Grande, BR",154.09,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-08-10,Transportation,"New York, US",245.89,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2023-11-03,Export,"Rotterdam, NL",162.61,1858.0,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2021-01-10,Cultivation,"Maharashtra, IN",164.48,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2023-09-12,Storage,"Rotterdam, NL",248.4,,Dry,83365.0,68.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2021-10-14,Cultivation,"Uttar Pradesh, IN",22.6,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2021-01-03,Transportation,"Karnataka, IN",236.45,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2024-06-29,Distribution,"New York, US",179.39,1938.0,Snowy,11948.0,34.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2022-03-30,Harvesting,"Rotterdam, NL",242.63,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2021-06-30,Export,"New York, US",119.56,17934.0,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-03-07,Distribution,"Sao Paulo, BR",134.59,17862.0,Overcast,97162.0,47.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2021-07-02,Distribution,"Karnataka, IN",19.08,19400.0,Dry,36128.0,46.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2023-03-20,Export,"Rio Grande, BR",247.56,583.0,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2021-02-27,Export,"Karnataka, IN",111.79,4946.0,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2023-12-15,Distribution,"Uttar Pradesh, IN",248.3,16756.0,Rainy,66029.0,92.0,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2022-07-28,Transportation,"Rio Grande, BR",173.59,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2024-07-18,Distribution,"Rio Grande, BR",85.63,16171.0,Overcast,17878.0,1.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2021-11-10,Cultivation,"Maharashtra, IN",209.48,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2024-11-13,Transportation,"Karnataka, IN",192.41,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2021-02-28,Cultivation,"Uttar Pradesh, IN",41.15,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2024-12-11,Distribution,"Rio Grande, BR",180.63,12221.0,Overcast,13384.0,93.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2021-06-25,Storage,"Rio Grande, BR",90.32,,Rainy,26100.0,11.0,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2023-08-11,Transportation,"Rio Grande, BR",58.54,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2022-06-20,Transportation,"New York, US",83.1,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2022-01-26,Distribution,"Rotterdam, NL",126.5,13969.0,Moderate Rainfall,90197.0,41.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2021-12-15,Export,"Maharashtra, IN",155.32,18523.0,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2024-09-05,Transportation,"Rotterdam, NL",58.07,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2022-03-06,Transportation,"New York, US",149.19,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2023-04-19,Distribution,"Rio Grande, BR",175.72,17129.0,Snowy,41412.0,9.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2021-10-11,Distribution,"New York, US",209.46,2629.0,Humid,23162.0,10.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2024-05-01,Harvesting,"New York, US",107.93,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2021-07-19,Harvesting,"New York, US",145.04,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2023-07-17,Harvesting,"Maharashtra, IN",116.49,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2021-10-14,Storage,"Rotterdam, NL",74.83,,Overcast,12107.0,61.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2023-03-03,Storage,"Karnataka, IN",185.24,,Moderate Rainfall,58853.0,62.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2023-05-03,Distribution,"New York, US",245.63,7180.0,Snowy,84401.0,6.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2023-12-24,Export,"Rotterdam, NL",21.28,14122.0,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-04-14,Distribution,"Sao Paulo, BR",214.97,2954.0,Dry,34852.0,8.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2022-03-21,Harvesting,"Maharashtra, IN",182.82,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2021-09-08,Processing,"Sao Paulo, BR",156.08,,Humid,83881.0,97.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2024-12-21,Distribution,"Sao Paulo, BR",28.53,14364.0,Dry,11931.0,62.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2021-08-19,Cultivation,"Uttar Pradesh, IN",56.66,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2024-02-09,Transportation,"Sao Paulo, BR",141.61,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-08-07,Harvesting,"Maharashtra, IN",91.55,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2023-09-11,Storage,"Maharashtra, IN",48.43,,Moderate Rainfall,78917.0,75.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2022-01-30,Processing,"Rio Grande, BR",105.56,,Clear,70938.0,32.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2023-02-08,Cultivation,"New York, US",139.78,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2022-12-29,Processing,"Maharashtra, IN",41.87,,Clear,62310.0,91.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2022-12-21,Storage,"Rotterdam, NL",112.18,,Snowy,54889.0,91.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2024-03-30,Harvesting,"Maharashtra, IN",153.92,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2022-08-18,Harvesting,"Uttar Pradesh, IN",57.79,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2024-07-05,Transportation,"New York, US",126.45,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2022-02-12,Processing,"Karnataka, IN",154.37,,Clear,41498.0,84.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2022-11-25,Transportation,"Sao Paulo, BR",78.94,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-08-04,Distribution,"Maharashtra, IN",145.24,4912.0,Snowy,16029.0,29.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2022-08-06,Distribution,"Rotterdam, NL",36.38,16169.0,Overcast,8762.0,46.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2021-05-05,Storage,"Rotterdam, NL",210.69,,Clear,97735.0,52.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2021-01-12,Transportation,"New York, US",96.27,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2022-05-15,Transportation,"Sao Paulo, BR",149.95,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-11-21,Processing,"Uttar Pradesh, IN",86.93,,Overcast,49974.0,89.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2022-06-10,Processing,"Sao Paulo, BR",161.77,,Clear,49555.0,75.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2022-09-18,Transportation,"Karnataka, IN",113.6,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2024-04-07,Export,"New York, US",235.84,13909.0,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2024-02-11,Export,"Maharashtra, IN",168.12,12190.0,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2024-05-08,Processing,"Rotterdam, NL",197.18,,Dry,42970.0,19.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2021-03-07,Transportation,"New York, US",248.57,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2023-12-26,Storage,"Rio Grande, BR",61.68,,Moderate Rainfall,38219.0,49.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2021-07-12,Transportation,"Rio Grande, BR",193.34,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2023-09-12,Processing,"Rio Grande, BR",162.0,,Humid,83079.0,48.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2022-07-30,Export,"New York, US",26.65,3709.0,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2021-09-15,Transportation,"Rotterdam, NL",200.74,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-05-10,Harvesting,"Rotterdam, NL",171.08,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2021-08-25,Cultivation,"Uttar Pradesh, IN",212.25,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2024-09-08,Harvesting,"Uttar Pradesh, IN",212.71,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2024-05-03,Storage,"Karnataka, IN",70.09,,Snowy,61883.0,31.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2021-08-19,Processing,"Rotterdam, NL",163.31,,Dry,33642.0,84.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2022-05-04,Processing,"Uttar Pradesh, IN",76.18,,Humid,93521.0,5.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-06-19,Harvesting,"Uttar Pradesh, IN",82.56,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2021-02-03,Distribution,"Uttar Pradesh, IN",194.32,19864.0,Rainy,3830.0,6.0,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2023-10-01,Processing,"Karnataka, IN",142.89,,Humid,94607.0,64.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2022-12-16,Export,"Sao Paulo, BR",121.19,4766.0,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2023-06-21,Harvesting,"New York, US",199.27,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2023-12-30,Cultivation,"New York, US",43.56,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2024-12-29,Storage,"Sao Paulo, BR",169.86,,Moderate Rainfall,65331.0,87.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-11-03,Transportation,"Uttar Pradesh, IN",204.99,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2023-01-29,Distribution,"Uttar Pradesh, IN",128.66,12392.0,Dry,75174.0,87.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2021-12-06,Export,"Karnataka, IN",70.77,491.0,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2023-05-30,Cultivation,"New York, US",43.02,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2021-02-03,Processing,"Rio Grande, BR",123.34,,Overcast,85835.0,62.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2024-08-10,Distribution,"Maharashtra, IN",64.56,19900.0,Snowy,81243.0,19.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2023-01-03,Export,"New York, US",61.16,5644.0,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2023-12-15,Storage,"Karnataka, IN",24.75,,Moderate Rainfall,92738.0,22.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2022-02-26,Storage,"Karnataka, IN",10.79,,Dry,99635.0,26.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2022-01-02,Export,"Karnataka, IN",161.77,11482.0,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2022-10-26,Harvesting,"Uttar Pradesh, IN",238.97,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2024-02-19,Export,"Karnataka, IN",31.68,14995.0,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-06-19,Storage,"Maharashtra, IN",113.34,,Rainy,77309.0,12.0,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2022-09-30,Harvesting,"Maharashtra, IN",209.57,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2023-01-07,Harvesting,"Karnataka, IN",26.78,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2024-10-10,Harvesting,"Maharashtra, IN",244.91,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2022-05-22,Processing,"Uttar Pradesh, IN",81.47,,Moderate Rainfall,29696.0,19.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2023-11-23,Harvesting,"Uttar Pradesh, IN",187.67,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2024-08-20,Harvesting,"Karnataka, IN",161.99,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2022-09-15,Processing,"Karnataka, IN",212.94,,Moderate Rainfall,26683.0,41.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2022-07-06,Harvesting,"Uttar Pradesh, IN",77.82,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2023-05-01,Storage,"New York, US",18.15,,Clear,52314.0,68.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2024-06-13,Transportation,"Rio Grande, BR",23.38,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2021-08-08,Transportation,"Uttar Pradesh, IN",191.1,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2022-07-05,Harvesting,"New York, US",54.38,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2022-03-18,Harvesting,"Sao Paulo, BR",21.33,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2024-11-27,Harvesting,"New York, US",110.14,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2021-04-07,Cultivation,"Maharashtra, IN",170.19,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2024-02-11,Processing,"Rio Grande, BR",214.63,,Overcast,94914.0,81.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2022-04-05,Export,"Karnataka, IN",96.93,15482.0,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-11-18,Storage,"New York, US",16.17,,Clear,75870.0,72.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2023-03-04,Processing,"Rio Grande, BR",234.14,,Overcast,47488.0,43.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2022-09-10,Export,"Karnataka, IN",247.84,14399.0,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2022-06-02,Storage,"Karnataka, IN",181.52,,Moderate Rainfall,52145.0,6.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2021-04-29,Storage,"Karnataka, IN",167.92,,Humid,98430.0,91.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2024-09-22,Harvesting,"Rotterdam, NL",131.88,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2021-07-21,Storage,"Rotterdam, NL",66.15,,Overcast,64617.0,52.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2022-05-01,Distribution,"Maharashtra, IN",155.83,8654.0,Dry,25425.0,80.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2024-02-27,Cultivation,"Maharashtra, IN",55.93,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2023-07-25,Cultivation,"Maharashtra, IN",233.65,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2024-08-02,Distribution,"Maharashtra, IN",52.23,15908.0,Dry,72265.0,12.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2021-11-25,Cultivation,"New York, US",147.92,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2021-04-21,Harvesting,"Rotterdam, NL",190.97,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-06-26,Processing,"Rotterdam, NL",19.1,,Moderate Rainfall,62620.0,32.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2022-03-17,Distribution,"Rio Grande, BR",193.66,3784.0,Humid,3604.0,91.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2021-07-10,Transportation,"Karnataka, IN",19.88,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2021-11-17,Transportation,"New York, US",104.94,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-06-19,Transportation,"Rotterdam, NL",82.37,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2024-10-24,Processing,"Karnataka, IN",71.53,,Rainy,36844.0,37.0,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2021-06-18,Processing,"Maharashtra, IN",102.21,,Humid,47056.0,67.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2024-07-30,Transportation,"Rio Grande, BR",176.04,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2023-12-12,Export,"Maharashtra, IN",213.67,19022.0,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2023-03-01,Processing,"Rotterdam, NL",165.57,,Moderate Rainfall,55016.0,71.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-10-27,Processing,"Karnataka, IN",112.24,,Snowy,84602.0,22.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2024-08-15,Distribution,"Sao Paulo, BR",187.04,16200.0,Snowy,23558.0,62.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2024-07-16,Distribution,"Uttar Pradesh, IN",181.75,3039.0,Clear,14788.0,94.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2023-03-15,Distribution,"Rio Grande, BR",175.29,9817.0,Overcast,8968.0,50.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2022-12-15,Harvesting,"Karnataka, IN",85.01,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2021-04-14,Distribution,"New York, US",206.69,12189.0,Snowy,47587.0,22.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2022-09-05,Transportation,"Rotterdam, NL",150.14,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2021-08-22,Cultivation,"Sao Paulo, BR",85.12,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-09-19,Transportation,"New York, US",23.16,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2021-03-30,Processing,"New York, US",46.22,,Clear,60932.0,82.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2024-08-08,Distribution,"New York, US",130.81,16248.0,Humid,2033.0,35.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2024-05-19,Export,"Rotterdam, NL",22.64,16495.0,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2024-06-20,Distribution,"Rio Grande, BR",27.78,12402.0,Clear,64688.0,91.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2023-11-15,Export,"Karnataka, IN",127.49,4439.0,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2021-04-30,Distribution,"Rotterdam, NL",243.04,19624.0,Snowy,66630.0,8.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2023-07-24,Export,"Maharashtra, IN",11.47,6120.0,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2022-01-03,Distribution,"Maharashtra, IN",205.7,18682.0,Humid,3369.0,93.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2022-10-07,Cultivation,"Sao Paulo, BR",217.11,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2021-09-06,Export,"New York, US",121.87,17357.0,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2021-01-13,Harvesting,"Rotterdam, NL",143.11,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2024-07-29,Distribution,"Rotterdam, NL",233.96,4416.0,Snowy,78008.0,11.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2021-07-22,Harvesting,"Uttar Pradesh, IN",15.41,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-11-07,Harvesting,"Karnataka, IN",28.04,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2023-05-01,Harvesting,"Rio Grande, BR",142.76,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2021-07-20,Distribution,"Rotterdam, NL",246.26,2537.0,Dry,94895.0,35.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2023-09-10,Distribution,"Rotterdam, NL",115.27,13680.0,Humid,29216.0,22.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2024-08-18,Cultivation,"Rotterdam, NL",192.11,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2022-08-25,Transportation,"Maharashtra, IN",58.28,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2024-11-18,Cultivation,"Maharashtra, IN",69.09,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2023-03-18,Cultivation,"Rio Grande, BR",189.19,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2021-08-16,Distribution,"Rotterdam, NL",198.3,12212.0,Overcast,22349.0,19.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2022-04-17,Storage,"Uttar Pradesh, IN",82.37,,Overcast,93110.0,89.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2024-12-21,Storage,"Uttar Pradesh, IN",62.87,,Moderate Rainfall,87943.0,30.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2021-03-08,Cultivation,"New York, US",208.72,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2021-12-22,Processing,"Rio Grande, BR",139.45,,Overcast,97057.0,82.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2024-01-30,Transportation,"Maharashtra, IN",172.32,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2023-04-24,Harvesting,"New York, US",207.66,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2024-01-05,Distribution,"Maharashtra, IN",90.76,1629.0,Snowy,9338.0,93.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2024-05-07,Harvesting,"Karnataka, IN",155.19,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2024-10-12,Transportation,"Karnataka, IN",61.93,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2024-03-11,Processing,"New York, US",246.53,,Humid,44755.0,67.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2024-12-17,Storage,"Maharashtra, IN",238.85,,Dry,76930.0,82.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2024-04-23,Cultivation,"New York, US",137.58,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2022-07-16,Storage,"Rio Grande, BR",98.9,,Rainy,58732.0,64.0,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2023-10-31,Cultivation,"Karnataka, IN",180.53,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2021-06-30,Storage,"Uttar Pradesh, IN",18.94,,Humid,92782.0,31.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2021-05-20,Cultivation,"New York, US",87.6,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-02-28,Cultivation,"Karnataka, IN",194.88,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2021-10-16,Processing,"Rotterdam, NL",38.76,,Humid,81947.0,85.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2021-11-30,Export,"Rio Grande, BR",104.26,12834.0,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2023-12-26,Distribution,"Rotterdam, NL",23.29,9377.0,Humid,65128.0,60.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-11-16,Cultivation,"Uttar Pradesh, IN",182.67,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2022-11-07,Export,"Karnataka, IN",225.1,14800.0,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2024-12-25,Transportation,"Rotterdam, NL",205.85,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2023-01-24,Distribution,"Uttar Pradesh, IN",182.36,13946.0,Moderate Rainfall,90015.0,49.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2021-07-01,Export,"Karnataka, IN",232.32,5944.0,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2022-02-21,Export,"New York, US",185.1,1771.0,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2022-05-31,Harvesting,"Maharashtra, IN",230.47,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2022-08-27,Transportation,"Maharashtra, IN",137.72,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2021-05-20,Storage,"Rio Grande, BR",225.02,,Dry,54695.0,22.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2024-01-27,Processing,"Sao Paulo, BR",189.15,,Dry,48347.0,31.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2022-10-15,Export,"Uttar Pradesh, IN",90.13,7526.0,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2022-12-17,Distribution,"Uttar Pradesh, IN",242.07,3354.0,Clear,9782.0,56.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2024-06-25,Storage,"Maharashtra, IN",112.58,,Overcast,95856.0,61.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2022-08-29,Storage,"Maharashtra, IN",29.03,,Moderate Rainfall,44245.0,44.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2023-10-06,Export,"Maharashtra, IN",210.95,5651.0,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-10-08,Harvesting,"Rotterdam, NL",104.43,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2024-11-28,Transportation,"Uttar Pradesh, IN",34.24,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2024-02-02,Export,"Karnataka, IN",133.88,2939.0,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-08-20,Distribution,"Sao Paulo, BR",38.42,5803.0,Moderate Rainfall,83312.0,34.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2022-04-20,Processing,"Rotterdam, NL",194.0,,Clear,13364.0,57.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2024-06-03,Cultivation,"Sao Paulo, BR",109.64,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2022-12-12,Distribution,"Maharashtra, IN",129.99,9256.0,Clear,61459.0,38.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2023-04-22,Storage,"Karnataka, IN",68.54,,Humid,33159.0,2.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2021-08-05,Harvesting,"Rotterdam, NL",139.28,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-03-15,Cultivation,"Uttar Pradesh, IN",226.1,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2022-11-26,Transportation,"New York, US",98.71,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-12-05,Processing,"Sao Paulo, BR",174.32,,Snowy,85914.0,73.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2023-04-04,Cultivation,"Rio Grande, BR",141.21,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2022-08-19,Export,"Maharashtra, IN",94.7,17117.0,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2023-04-26,Harvesting,"Karnataka, IN",133.12,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-07-30,Harvesting,"Rotterdam, NL",247.12,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2023-08-20,Transportation,"Maharashtra, IN",65.86,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2022-07-21,Storage,"Rio Grande, BR",13.6,,Clear,86413.0,15.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2023-05-20,Cultivation,"Uttar Pradesh, IN",136.82,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2023-12-19,Distribution,"New York, US",221.58,1291.0,Moderate Rainfall,19954.0,83.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2023-03-30,Export,"Sao Paulo, BR",65.8,12805.0,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2024-03-02,Processing,"Uttar Pradesh, IN",56.5,,Humid,79298.0,4.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2022-06-24,Harvesting,"Rio Grande, BR",107.98,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2022-12-06,Processing,"Maharashtra, IN",77.73,,Dry,63689.0,52.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2024-02-20,Processing,"Rotterdam, NL",96.91,,Overcast,3716.0,19.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2021-05-20,Export,"New York, US",229.34,10384.0,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2022-10-12,Harvesting,"Karnataka, IN",157.79,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2021-07-11,Storage,"Maharashtra, IN",51.92,,Humid,92364.0,6.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2022-06-13,Storage,"New York, US",104.53,,Snowy,57532.0,47.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2022-11-30,Cultivation,"Karnataka, IN",202.36,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2021-11-15,Processing,"Maharashtra, IN",215.3,,Snowy,44226.0,43.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2022-09-07,Harvesting,"Maharashtra, IN",183.53,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2021-08-29,Distribution,"Uttar Pradesh, IN",239.72,12980.0,Humid,50967.0,34.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2022-03-25,Storage,"Uttar Pradesh, IN",189.92,,Humid,85666.0,11.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2024-01-08,Harvesting,"Maharashtra, IN",130.46,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2021-06-26,Distribution,"Rotterdam, NL",216.22,14792.0,Dry,32117.0,15.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2024-10-14,Storage,"Maharashtra, IN",161.08,,Moderate Rainfall,78687.0,69.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-08-20,Cultivation,"Sao Paulo, BR",137.89,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2022-12-03,Export,"Rio Grande, BR",137.25,10450.0,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2024-01-23,Transportation,"Rotterdam, NL",14.58,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-10-28,Cultivation,"Rotterdam, NL",164.85,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2022-10-06,Storage,"Rio Grande, BR",19.87,,Dry,40308.0,78.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2021-03-07,Processing,"Uttar Pradesh, IN",111.04,,Overcast,26661.0,87.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2024-07-09,Distribution,"Rio Grande, BR",42.33,6894.0,Overcast,94736.0,25.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2022-10-14,Storage,"Maharashtra, IN",71.52,,Rainy,10597.0,84.0,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2021-05-17,Storage,"New York, US",159.38,,Overcast,40096.0,41.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2023-06-03,Storage,"Sao Paulo, BR",138.06,,Moderate Rainfall,71837.0,44.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-02-25,Harvesting,"Uttar Pradesh, IN",10.84,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2023-12-31,Export,"Rotterdam, NL",114.09,16842.0,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2021-09-01,Export,"Sao Paulo, BR",179.5,3906.0,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-04-26,Cultivation,"Uttar Pradesh, IN",114.67,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2022-11-18,Transportation,"Rotterdam, NL",135.98,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2022-01-15,Transportation,"Uttar Pradesh, IN",117.58,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2022-01-29,Transportation,"Uttar Pradesh, IN",97.47,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2022-03-07,Cultivation,"Uttar Pradesh, IN",183.79,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2022-01-25,Cultivation,"Karnataka, IN",138.09,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2023-07-31,Distribution,"Karnataka, IN",204.21,11931.0,Rainy,71324.0,0.0,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2021-07-16,Distribution,"Rotterdam, NL",166.78,10343.0,Rainy,95379.0,17.0,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2024-08-28,Export,"Karnataka, IN",40.7,10126.0,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2023-10-31,Processing,"New York, US",108.49,,Snowy,76606.0,32.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2022-12-07,Cultivation,"Sao Paulo, BR",109.88,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2021-11-23,Cultivation,"Karnataka, IN",214.92,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2022-05-09,Distribution,"Karnataka, IN",184.83,9204.0,Dry,39903.0,3.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2022-04-04,Storage,"Rotterdam, NL",150.25,,Moderate Rainfall,46109.0,56.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2023-12-22,Harvesting,"Rio Grande, BR",216.87,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2021-04-08,Processing,"Rio Grande, BR",12.06,,Humid,18658.0,45.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2021-07-02,Cultivation,"Rio Grande, BR",191.11,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2022-10-08,Export,"Sao Paulo, BR",125.47,5938.0,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2022-01-04,Transportation,"Rotterdam, NL",136.25,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-06-04,Harvesting,"New York, US",90.74,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2024-02-25,Export,"Karnataka, IN",75.63,1998.0,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2024-03-05,Cultivation,"Karnataka, IN",239.6,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2022-04-22,Export,"Karnataka, IN",34.78,1415.0,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2024-11-27,Processing,"Uttar Pradesh, IN",77.94,,Snowy,63515.0,3.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2022-05-19,Processing,"Sao Paulo, BR",188.18,,Rainy,68461.0,28.0,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2022-06-18,Distribution,"New York, US",116.35,682.0,Overcast,69790.0,15.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2021-02-16,Distribution,"Sao Paulo, BR",21.2,16447.0,Overcast,55400.0,25.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2021-01-31,Export,"Rio Grande, BR",85.76,13063.0,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-08-29,Export,"Karnataka, IN",222.65,1841.0,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2024-04-21,Storage,"New York, US",168.79,,Dry,2700.0,82.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2023-04-29,Export,"Maharashtra, IN",89.45,10610.0,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2023-02-08,Export,"Maharashtra, IN",95.43,4751.0,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-07-26,Processing,"New York, US",93.91,,Overcast,65989.0,69.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2023-10-11,Cultivation,"Karnataka, IN",111.74,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2021-10-09,Storage,"Karnataka, IN",186.44,,Snowy,31958.0,41.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2024-07-20,Transportation,"Karnataka, IN",92.1,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2021-05-16,Storage,"Rotterdam, NL",103.45,,Dry,81299.0,19.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2022-01-19,Harvesting,"Karnataka, IN",162.59,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2023-10-24,Harvesting,"Rotterdam, NL",70.05,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2022-05-03,Processing,"Uttar Pradesh, IN",189.51,,Moderate Rainfall,78995.0,73.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-01-17,Transportation,"New York, US",156.05,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2024-05-01,Export,"Uttar Pradesh, IN",25.62,11423.0,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2024-01-02,Processing,"Maharashtra, IN",39.04,,Dry,67141.0,92.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2023-06-05,Transportation,"Karnataka, IN",103.91,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2021-06-03,Processing,"Rio Grande, BR",45.65,,Overcast,30380.0,54.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2024-02-14,Processing,"Uttar Pradesh, IN",73.21,,Overcast,83644.0,5.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2021-06-12,Distribution,"Karnataka, IN",205.38,5562.0,Snowy,44443.0,55.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2023-12-17,Export,"Maharashtra, IN",245.93,14090.0,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2022-03-03,Distribution,"Karnataka, IN",141.41,8111.0,Humid,70623.0,100.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2024-01-28,Cultivation,"Maharashtra, IN",101.18,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2021-07-11,Processing,"Rio Grande, BR",54.94,,Dry,75424.0,95.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2023-08-04,Storage,"Uttar Pradesh, IN",207.01,,Rainy,93879.0,25.0,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2023-08-04,Harvesting,"Karnataka, IN",91.01,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2022-08-10,Harvesting,"Karnataka, IN",150.52,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2023-12-24,Export,"New York, US",12.13,8615.0,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-04-13,Export,"New York, US",198.52,17998.0,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2023-03-22,Storage,"Karnataka, IN",30.67,,Clear,7752.0,100.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2022-05-19,Distribution,"Maharashtra, IN",247.7,2298.0,Humid,80688.0,19.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2021-07-07,Storage,"Sao Paulo, BR",197.77,,Moderate Rainfall,8490.0,55.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-06-27,Distribution,"Uttar Pradesh, IN",220.35,6045.0,Dry,50459.0,6.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2023-04-06,Distribution,"New York, US",141.61,16849.0,Humid,56449.0,10.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2022-04-20,Distribution,"Rotterdam, NL",228.29,11447.0,Clear,10541.0,72.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2024-05-29,Distribution,"Rotterdam, NL",137.58,5341.0,Rainy,51390.0,14.0,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2024-06-11,Harvesting,"Rotterdam, NL",96.68,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-09-09,Export,"Karnataka, IN",106.53,4983.0,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2021-03-27,Storage,"New York, US",75.3,,Snowy,41768.0,6.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2022-11-17,Harvesting,"Uttar Pradesh, IN",214.72,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2023-10-24,Export,"New York, US",67.16,9681.0,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2021-11-19,Cultivation,"Sao Paulo, BR",234.47,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2023-01-06,Transportation,"Uttar Pradesh, IN",118.02,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2024-02-01,Harvesting,"Sao Paulo, BR",140.4,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2021-07-12,Storage,"Maharashtra, IN",140.76,,Humid,39044.0,11.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2022-07-21,Transportation,"New York, US",80.27,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2024-03-30,Harvesting,"Sao Paulo, BR",43.13,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2021-03-11,Transportation,"Sao Paulo, BR",228.69,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2022-07-31,Processing,"Rotterdam, NL",151.42,,Clear,65318.0,59.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2023-07-27,Cultivation,"New York, US",64.33,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2021-04-08,Processing,"Rotterdam, NL",34.4,,Dry,74294.0,100.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2021-10-17,Distribution,"Rio Grande, BR",164.99,4740.0,Overcast,62034.0,53.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2022-10-05,Cultivation,"New York, US",133.87,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2022-06-21,Distribution,"Sao Paulo, BR",202.02,528.0,Snowy,24280.0,33.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2022-02-17,Harvesting,"Sao Paulo, BR",179.07,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2021-11-22,Processing,"Rio Grande, BR",207.88,,Clear,72942.0,21.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2021-02-26,Export,"Maharashtra, IN",79.28,16014.0,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2021-09-23,Transportation,"Karnataka, IN",106.35,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2023-10-31,Harvesting,"Karnataka, IN",87.85,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2024-11-11,Transportation,"Rotterdam, NL",30.88,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2022-02-14,Export,"Karnataka, IN",187.69,18553.0,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2021-02-15,Cultivation,"Karnataka, IN",91.07,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2024-03-31,Export,"Maharashtra, IN",92.51,2588.0,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2022-10-18,Distribution,"Rotterdam, NL",229.54,9965.0,Rainy,72656.0,13.0,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2024-04-22,Harvesting,"Rotterdam, NL",80.43,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2023-05-30,Export,"Rotterdam, NL",226.16,11903.0,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2022-01-18,Storage,"New York, US",138.13,,Dry,43057.0,71.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2024-06-14,Processing,"Rio Grande, BR",92.11,,Dry,63301.0,86.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2022-04-24,Processing,"Uttar Pradesh, IN",31.29,,Humid,96681.0,63.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-08-31,Harvesting,"Uttar Pradesh, IN",240.2,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2022-05-30,Harvesting,"Sao Paulo, BR",116.2,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-12-19,Processing,"Rotterdam, NL",198.76,,Moderate Rainfall,16710.0,31.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-07-08,Processing,"Karnataka, IN",190.4,,Moderate Rainfall,58133.0,59.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2022-12-27,Cultivation,"Rotterdam, NL",70.12,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2022-04-02,Transportation,"New York, US",103.39,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2023-02-25,Cultivation,"Karnataka, IN",115.32,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2021-11-28,Export,"Rio Grande, BR",128.76,1551.0,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2022-10-17,Distribution,"Uttar Pradesh, IN",82.59,18257.0,Snowy,14930.0,24.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2021-02-21,Harvesting,"Rio Grande, BR",59.54,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2021-08-25,Distribution,"Rotterdam, NL",87.2,6101.0,Dry,43558.0,71.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2021-05-18,Transportation,"Rotterdam, NL",219.71,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2023-06-21,Harvesting,"Maharashtra, IN",165.85,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2023-05-22,Storage,"New York, US",39.01,,Dry,29407.0,83.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2024-01-05,Harvesting,"Rio Grande, BR",176.25,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2021-04-09,Cultivation,"Rotterdam, NL",145.08,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2023-12-14,Export,"Sao Paulo, BR",174.5,9287.0,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2024-02-06,Processing,"Karnataka, IN",136.38,,Snowy,18737.0,2.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2023-05-23,Export,"Uttar Pradesh, IN",151.4,13919.0,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2024-11-13,Harvesting,"Karnataka, IN",224.81,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2021-10-30,Distribution,"Uttar Pradesh, IN",167.31,14973.0,Humid,40723.0,51.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2021-10-10,Processing,"Rio Grande, BR",121.18,,Moderate Rainfall,25368.0,81.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2022-04-06,Distribution,"New York, US",185.49,11260.0,Moderate Rainfall,25978.0,31.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-08-08,Distribution,"Karnataka, IN",66.93,7687.0,Rainy,83956.0,20.0,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2023-10-09,Export,"Maharashtra, IN",83.58,9455.0,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2022-03-18,Cultivation,"Karnataka, IN",182.07,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-05-24,Harvesting,"Rotterdam, NL",73.7,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2022-12-17,Processing,"Sao Paulo, BR",125.86,,Overcast,28978.0,77.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2022-03-06,Processing,"Rio Grande, BR",12.31,,Clear,66747.0,77.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2021-01-15,Transportation,"Uttar Pradesh, IN",241.61,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2022-06-17,Export,"Uttar Pradesh, IN",127.08,2656.0,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-09-06,Processing,"Sao Paulo, BR",65.01,,Overcast,16559.0,30.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2021-12-01,Processing,"Uttar Pradesh, IN",24.48,,Snowy,57317.0,56.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2024-12-02,Distribution,"Sao Paulo, BR",231.02,4976.0,Clear,43219.0,33.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2021-11-23,Export,"Rio Grande, BR",202.95,8591.0,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2021-12-22,Distribution,"Rio Grande, BR",172.17,7270.0,Dry,36763.0,4.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2023-04-15,Cultivation,"Rotterdam, NL",120.16,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2022-04-23,Transportation,"Karnataka, IN",35.85,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2024-10-10,Harvesting,"Rotterdam, NL",43.5,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2021-03-19,Distribution,"Sao Paulo, BR",18.1,3043.0,Snowy,86584.0,89.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2024-07-27,Storage,"Uttar Pradesh, IN",98.69,,Overcast,85137.0,74.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2021-12-01,Harvesting,"Sao Paulo, BR",50.55,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2021-01-26,Distribution,"New York, US",108.84,12238.0,Clear,2483.0,69.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2024-02-11,Processing,"New York, US",239.8,,Humid,58625.0,71.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-12-13,Cultivation,"Rio Grande, BR",224.33,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2024-12-28,Distribution,"Maharashtra, IN",128.42,16699.0,Snowy,22713.0,49.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2022-05-19,Export,"Sao Paulo, BR",72.11,14865.0,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2024-12-13,Processing,"New York, US",92.71,,Humid,23324.0,75.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2022-01-12,Harvesting,"New York, US",119.38,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2022-07-12,Harvesting,"Uttar Pradesh, IN",166.77,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2022-05-10,Distribution,"Rotterdam, NL",178.85,2771.0,Moderate Rainfall,77328.0,93.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2022-07-31,Cultivation,"Rio Grande, BR",216.08,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2022-11-07,Cultivation,"New York, US",233.48,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2023-11-11,Harvesting,"Maharashtra, IN",124.23,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2021-02-05,Export,"New York, US",84.01,18580.0,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2023-06-08,Transportation,"Karnataka, IN",119.16,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-07-15,Cultivation,"Rotterdam, NL",112.57,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2022-11-19,Storage,"Uttar Pradesh, IN",176.48,,Humid,9745.0,54.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2022-03-17,Harvesting,"Karnataka, IN",153.63,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2023-06-22,Distribution,"Karnataka, IN",240.27,4704.0,Overcast,74163.0,100.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2022-08-11,Export,"Rio Grande, BR",130.88,8261.0,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2021-01-19,Processing,"New York, US",69.43,,Moderate Rainfall,44091.0,66.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-09-15,Distribution,"Uttar Pradesh, IN",107.82,8842.0,Humid,94526.0,33.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2022-06-18,Cultivation,"New York, US",226.52,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2023-12-23,Cultivation,"Karnataka, IN",142.63,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2024-05-29,Cultivation,"Uttar Pradesh, IN",230.44,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2022-10-12,Harvesting,"Sao Paulo, BR",219.88,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2022-09-25,Processing,"Karnataka, IN",28.73,,Clear,12781.0,41.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2024-03-12,Export,"Rio Grande, BR",228.61,7424.0,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-01-04,Cultivation,"Rotterdam, NL",156.41,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2023-06-15,Export,"Karnataka, IN",50.86,3900.0,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2023-05-22,Distribution,"Uttar Pradesh, IN",195.09,11374.0,Overcast,7133.0,40.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2024-10-27,Storage,"New York, US",128.48,,Clear,81805.0,49.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2023-12-30,Processing,"Maharashtra, IN",37.33,,Moderate Rainfall,67098.0,67.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2022-12-22,Harvesting,"Karnataka, IN",230.04,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-07-01,Transportation,"Uttar Pradesh, IN",97.83,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-03-27,Transportation,"New York, US",203.75,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2022-03-27,Cultivation,"Uttar Pradesh, IN",194.75,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2022-09-23,Distribution,"Rotterdam, NL",47.14,6466.0,Dry,1297.0,21.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2022-06-07,Cultivation,"Karnataka, IN",176.85,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2023-09-28,Export,"Rotterdam, NL",134.29,5719.0,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2022-03-11,Storage,"Rio Grande, BR",113.04,,Humid,19676.0,96.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2024-08-31,Cultivation,"Sao Paulo, BR",177.57,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2023-09-13,Transportation,"Rotterdam, NL",136.02,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2021-08-02,Cultivation,"Sao Paulo, BR",189.24,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2023-06-26,Cultivation,"Uttar Pradesh, IN",49.26,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-01-14,Transportation,"Rio Grande, BR",177.98,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2024-03-24,Cultivation,"New York, US",182.81,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-07-10,Cultivation,"Maharashtra, IN",224.74,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2021-08-14,Processing,"Karnataka, IN",96.77,,Clear,57036.0,7.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2023-04-25,Storage,"Uttar Pradesh, IN",32.38,,Snowy,45929.0,16.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2024-11-26,Processing,"Rio Grande, BR",180.38,,Clear,85790.0,43.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2021-10-20,Transportation,"New York, US",148.41,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-06-09,Export,"Karnataka, IN",90.01,12002.0,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2022-08-15,Distribution,"Uttar Pradesh, IN",45.58,14958.0,Snowy,31525.0,65.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2022-10-29,Export,"Rotterdam, NL",239.53,11949.0,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2022-09-30,Export,"Karnataka, IN",18.98,10400.0,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2022-10-15,Export,"Karnataka, IN",128.06,865.0,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2021-10-07,Export,"Maharashtra, IN",244.37,1345.0,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2023-01-19,Storage,"Uttar Pradesh, IN",105.92,,Overcast,40848.0,42.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2024-02-06,Harvesting,"Karnataka, IN",41.49,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2024-04-24,Processing,"Rio Grande, BR",121.11,,Humid,15220.0,61.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2024-09-11,Harvesting,"New York, US",96.35,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2024-10-16,Harvesting,"Maharashtra, IN",159.43,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2022-02-26,Transportation,"Uttar Pradesh, IN",40.37,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2022-02-05,Export,"Sao Paulo, BR",130.79,14045.0,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2022-03-20,Cultivation,"Sao Paulo, BR",156.87,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2021-06-04,Distribution,"Maharashtra, IN",238.72,12536.0,Overcast,11545.0,40.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2023-07-16,Distribution,"Rotterdam, NL",18.51,9737.0,Moderate Rainfall,43001.0,40.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2021-08-27,Distribution,"Karnataka, IN",111.84,727.0,Overcast,69147.0,26.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2022-12-28,Cultivation,"New York, US",100.17,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2021-03-06,Transportation,"New York, US",14.02,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2022-10-06,Cultivation,"Uttar Pradesh, IN",71.27,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2022-04-10,Export,"Sao Paulo, BR",38.42,7844.0,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-12-15,Harvesting,"Sao Paulo, BR",164.15,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2023-12-23,Storage,"Maharashtra, IN",231.14,,Snowy,94615.0,87.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2023-03-31,Cultivation,"New York, US",110.56,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2022-08-28,Storage,"Rotterdam, NL",207.75,,Overcast,63760.0,41.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2023-03-17,Distribution,"Rotterdam, NL",92.82,10765.0,Humid,62536.0,27.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2022-06-14,Storage,"Karnataka, IN",72.94,,Clear,31512.0,56.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2024-09-05,Export,"Rio Grande, BR",172.79,5091.0,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2024-05-01,Transportation,"Uttar Pradesh, IN",147.35,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2023-05-03,Distribution,"Rotterdam, NL",69.86,764.0,Clear,71953.0,14.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2023-07-16,Transportation,"Maharashtra, IN",47.68,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2023-09-04,Export,"Sao Paulo, BR",213.97,7559.0,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2023-05-17,Transportation,"Maharashtra, IN",12.8,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2021-01-03,Distribution,"Karnataka, IN",83.6,2860.0,Humid,13948.0,99.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2021-06-01,Transportation,"Karnataka, IN",104.63,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-07-11,Export,"Rotterdam, NL",189.69,9474.0,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2022-08-12,Distribution,"Sao Paulo, BR",132.06,11946.0,Rainy,55591.0,9.0,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2022-12-11,Harvesting,"Karnataka, IN",115.03,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2023-10-13,Export,"Rotterdam, NL",15.14,11647.0,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2022-04-25,Processing,"Karnataka, IN",150.73,,Clear,48391.0,40.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2024-02-22,Storage,"Karnataka, IN",202.2,,Rainy,73296.0,23.0,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2023-07-26,Distribution,"Rio Grande, BR",188.03,5089.0,Moderate Rainfall,3210.0,83.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2023-04-11,Cultivation,"Maharashtra, IN",171.9,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2022-11-25,Export,"Karnataka, IN",70.74,16172.0,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2022-11-14,Distribution,"Karnataka, IN",202.07,13893.0,Snowy,73338.0,39.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2022-06-19,Harvesting,"Sao Paulo, BR",122.89,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2021-10-23,Export,"Rotterdam, NL",154.18,4274.0,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2023-10-30,Export,"Sao Paulo, BR",184.19,15209.0,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2023-03-14,Export,"Rio Grande, BR",107.98,124.0,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2023-01-10,Distribution,"Maharashtra, IN",31.58,17274.0,Dry,33111.0,38.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2022-10-11,Processing,"New York, US",84.86,,Humid,53586.0,80.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-08-07,Transportation,"Uttar Pradesh, IN",28.46,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2021-09-27,Harvesting,"Karnataka, IN",41.47,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2022-11-10,Export,"Uttar Pradesh, IN",54.39,1188.0,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2024-01-06,Storage,"Maharashtra, IN",124.81,,Overcast,69358.0,38.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2022-07-08,Transportation,"New York, US",133.34,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2023-06-27,Export,"Sao Paulo, BR",73.83,16226.0,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2024-09-15,Export,"Rio Grande, BR",179.04,5750.0,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2022-04-08,Processing,"New York, US",219.38,,Dry,37068.0,39.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2022-10-23,Storage,"Sao Paulo, BR",145.56,,Humid,27707.0,97.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2024-01-08,Cultivation,"Rio Grande, BR",51.35,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2024-03-20,Export,"Maharashtra, IN",129.55,7426.0,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2021-06-24,Cultivation,"Karnataka, IN",33.14,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2024-12-29,Harvesting,"Maharashtra, IN",20.47,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2022-08-28,Transportation,"Uttar Pradesh, IN",217.17,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2024-02-20,Processing,"Rotterdam, NL",76.34,,Dry,7767.0,94.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2021-07-14,Transportation,"Maharashtra, IN",175.21,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2022-02-23,Export,"New York, US",169.93,16325.0,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2024-10-31,Export,"Rio Grande, BR",128.97,18833.0,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2021-06-21,Transportation,"Karnataka, IN",32.69,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2021-01-10,Transportation,"Rotterdam, NL",116.39,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2023-12-30,Processing,"New York, US",68.48,,Overcast,42183.0,36.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2023-10-29,Transportation,"Rio Grande, BR",67.63,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2024-05-14,Cultivation,"Karnataka, IN",203.95,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2021-08-17,Storage,"Karnataka, IN",229.86,,Clear,48533.0,79.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2024-10-02,Cultivation,"Maharashtra, IN",141.11,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2023-03-02,Cultivation,"Uttar Pradesh, IN",176.01,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2024-11-28,Export,"Uttar Pradesh, IN",233.26,14309.0,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2021-04-07,Transportation,"Sao Paulo, BR",128.24,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2022-05-08,Distribution,"Rotterdam, NL",192.82,1807.0,Snowy,10733.0,20.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2023-01-31,Harvesting,"Karnataka, IN",31.34,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2022-03-22,Storage,"Sao Paulo, BR",153.71,,Dry,39150.0,13.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2024-10-31,Storage,"New York, US",223.76,,Overcast,15385.0,94.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2021-09-08,Transportation,"Maharashtra, IN",131.09,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2022-05-29,Harvesting,"New York, US",239.29,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2023-11-10,Export,"Uttar Pradesh, IN",181.86,9085.0,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2021-12-26,Processing,"Sao Paulo, BR",144.4,,Snowy,82852.0,21.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2021-01-01,Harvesting,"Sao Paulo, BR",178.74,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2021-09-28,Export,"Uttar Pradesh, IN",220.38,1033.0,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2022-04-04,Cultivation,"Rio Grande, BR",35.4,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2022-09-10,Transportation,"Maharashtra, IN",81.89,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2021-01-23,Export,"Karnataka, IN",159.75,726.0,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2023-12-19,Storage,"Rio Grande, BR",133.93,,Clear,60499.0,76.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2024-08-17,Export,"Uttar Pradesh, IN",50.13,7417.0,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2021-04-10,Cultivation,"Maharashtra, IN",218.93,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2022-11-06,Storage,"Rotterdam, NL",238.81,,Clear,92578.0,31.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2021-08-21,Storage,"Karnataka, IN",217.04,,Moderate Rainfall,57240.0,65.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2022-10-14,Harvesting,"Karnataka, IN",234.5,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2021-03-04,Storage,"Rio Grande, BR",224.91,,Moderate Rainfall,19006.0,68.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2023-03-06,Storage,"Rotterdam, NL",183.58,,Clear,99261.0,2.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2021-06-12,Transportation,"Uttar Pradesh, IN",249.87,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2023-06-02,Cultivation,"Maharashtra, IN",134.24,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2021-12-12,Export,"Rio Grande, BR",84.75,8571.0,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2024-01-16,Storage,"New York, US",238.56,,Dry,67644.0,5.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2024-10-28,Cultivation,"Rio Grande, BR",76.86,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-12-19,Transportation,"Rotterdam, NL",229.1,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2022-11-19,Export,"Rotterdam, NL",236.02,6045.0,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2022-01-21,Processing,"Maharashtra, IN",87.63,,Moderate Rainfall,40787.0,8.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2021-05-25,Cultivation,"New York, US",93.97,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2023-03-05,Harvesting,"Karnataka, IN",58.72,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2023-11-06,Distribution,"Maharashtra, IN",231.97,16351.0,Snowy,48694.0,52.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2021-01-05,Export,"Rotterdam, NL",121.01,1601.0,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2024-05-26,Cultivation,"New York, US",121.22,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2022-06-14,Storage,"Uttar Pradesh, IN",12.32,,Overcast,95609.0,4.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2023-11-19,Storage,"Uttar Pradesh, IN",109.63,,Dry,18094.0,25.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2023-10-02,Harvesting,"Karnataka, IN",159.23,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2023-06-21,Export,"Sao Paulo, BR",44.22,12722.0,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2021-04-22,Distribution,"Sao Paulo, BR",56.79,16125.0,Overcast,79508.0,79.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2023-05-25,Distribution,"Maharashtra, IN",92.9,18700.0,Humid,47265.0,2.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2021-05-29,Cultivation,"Sao Paulo, BR",59.71,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2021-07-19,Harvesting,"Rotterdam, NL",122.49,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-10-16,Distribution,"Rio Grande, BR",100.58,250.0,Snowy,46537.0,18.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2024-11-16,Storage,"Uttar Pradesh, IN",18.33,,Rainy,49169.0,67.0,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2022-07-08,Export,"Rio Grande, BR",81.78,12199.0,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-03-06,Processing,"Rotterdam, NL",89.53,,Dry,77124.0,73.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2021-11-28,Transportation,"Sao Paulo, BR",213.25,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2021-06-10,Cultivation,"New York, US",151.34,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2022-06-25,Harvesting,"Rotterdam, NL",116.38,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2022-06-15,Harvesting,"Rio Grande, BR",246.79,,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2022-03-15,Storage,"Rotterdam, NL",113.18,,Humid,85757.0,69.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2024-12-18,Export,"Maharashtra, IN",203.02,1578.0,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2023-10-05,Processing,"Sao Paulo, BR",44.04,,Clear,88654.0,75.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2022-01-20,Processing,"Uttar Pradesh, IN",76.1,,Moderate Rainfall,81904.0,3.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-02-19,Export,"Sao Paulo, BR",124.44,1650.0,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2022-12-20,Storage,"Sao Paulo, BR",79.78,,Clear,56960.0,31.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2022-10-10,Distribution,"Karnataka, IN",211.34,12370.0,Clear,90392.0,86.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2023-08-21,Processing,"Sao Paulo, BR",56.33,,Overcast,37728.0,48.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2024-10-28,Harvesting,"New York, US",193.15,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2021-11-21,Processing,"Rotterdam, NL",113.53,,Clear,27032.0,4.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2024-12-30,Cultivation,"Uttar Pradesh, IN",149.31,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2023-02-06,Export,"Rotterdam, NL",92.71,19152.0,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2024-02-04,Cultivation,"Uttar Pradesh, IN",45.61,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2024-01-29,Harvesting,"Karnataka, IN",222.15,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2021-10-16,Distribution,"Rio Grande, BR",241.55,15392.0,Snowy,64781.0,81.0,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2024-05-27,Storage,"New York, US",156.33,,Dry,96041.0,5.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2021-12-12,Transportation,"Maharashtra, IN",137.78,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2024-08-19,Cultivation,"Rotterdam, NL",245.6,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-12-19,Harvesting,"Rotterdam, NL",83.33,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2023-12-28,Export,"Rio Grande, BR",180.0,9318.0,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2023-04-02,Storage,"Maharashtra, IN",147.09,,Humid,62527.0,5.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2022-04-24,Processing,"Rio Grande, BR",74.49,,Humid,1607.0,29.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2022-05-21,Storage,"Uttar Pradesh, IN",127.6,,Dry,85157.0,93.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2023-12-19,Transportation,"Rotterdam, NL",41.55,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2022-08-23,Cultivation,"Maharashtra, IN",214.33,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2024-03-29,Cultivation,"Maharashtra, IN",64.54,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2021-09-20,Cultivation,"Karnataka, IN",13.11,,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2021-12-29,Distribution,"Maharashtra, IN",141.65,5559.0,Overcast,32462.0,96.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2023-10-12,Distribution,"Karnataka, IN",148.76,18173.0,Dry,24355.0,52.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2022-06-04,Processing,"Uttar Pradesh, IN",163.01,,Rainy,67818.0,91.0,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2022-11-29,Export,"Uttar Pradesh, IN",44.03,13371.0,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2022-07-08,Storage,"Sao Paulo, BR",160.93,,Humid,68091.0,78.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2024-11-10,Harvesting,"Sao Paulo, BR",238.73,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2022-10-22,Cultivation,"Rotterdam, NL",11.43,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2023-01-28,Export,"Maharashtra, IN",133.89,77.0,Clear,,,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2023-02-25,Cultivation,"Karnataka, IN",29.04,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2024-05-19,Cultivation,"Maharashtra, IN",137.17,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-02-18,Storage,"Uttar Pradesh, IN",156.57,,Overcast,38981.0,17.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2021-10-23,Export,"Sao Paulo, BR",196.46,14933.0,Snowy,,,LABEL_1,0.5463272929191589,Low risk: No significant threats detected.
+2021-03-24,Distribution,"Rio Grande, BR",27.05,13976.0,Overcast,13821.0,66.0,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2023-07-03,Storage,"Rotterdam, NL",62.0,,Humid,38528.0,66.0,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2024-02-29,Cultivation,"Rio Grande, BR",247.21,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2022-11-10,Distribution,"Rotterdam, NL",16.22,9583.0,Rainy,25161.0,56.0,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2024-10-21,Transportation,"Sao Paulo, BR",216.49,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2022-05-30,Cultivation,"Rotterdam, NL",206.64,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2022-11-17,Storage,"Rotterdam, NL",128.47,,Clear,90790.0,89.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2024-07-06,Distribution,"Sao Paulo, BR",25.79,19925.0,Rainy,26385.0,84.0,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2022-12-19,Harvesting,"Maharashtra, IN",243.3,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2021-05-10,Cultivation,"Maharashtra, IN",98.04,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2024-04-01,Export,"Rio Grande, BR",61.48,14244.0,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2023-05-17,Harvesting,"Karnataka, IN",114.78,,Moderate Rainfall,,,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2021-04-18,Cultivation,"Maharashtra, IN",152.85,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2024-10-19,Storage,"Maharashtra, IN",187.1,,Dry,5158.0,70.0,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2021-08-23,Harvesting,"Sao Paulo, BR",82.22,,Humid,,,LABEL_1,0.5373225212097168,Low risk: No significant threats detected.
+2024-07-03,Cultivation,"Rotterdam, NL",55.68,,Dry,,,LABEL_1,0.5470525026321411,Low risk: No significant threats detected.
+2021-01-11,Processing,"Maharashtra, IN",244.72,,Moderate Rainfall,87610.0,54.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2023-06-21,Transportation,"Rio Grande, BR",99.1,,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2023-09-27,Processing,"Uttar Pradesh, IN",131.94,,Moderate Rainfall,60649.0,37.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2023-02-19,Storage,"Sao Paulo, BR",139.29,,Moderate Rainfall,10930.0,12.0,LABEL_1,0.5473300218582153,Low risk: No significant threats detected.
+2023-05-07,Harvesting,"Uttar Pradesh, IN",49.16,,Overcast,,,LABEL_1,0.5308913588523865,Low risk: No significant threats detected.
+2021-09-02,Storage,"Maharashtra, IN",224.65,,Clear,61149.0,68.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
+2024-09-16,Export,"Rio Grande, BR",217.73,512.0,Rainy,,,LABEL_1,0.5459724068641663,Low risk: No significant threats detected.
+2023-07-27,Processing,"Rotterdam, NL",134.6,,Clear,27788.0,72.0,LABEL_1,0.5396172404289246,Low risk: No significant threats detected.
